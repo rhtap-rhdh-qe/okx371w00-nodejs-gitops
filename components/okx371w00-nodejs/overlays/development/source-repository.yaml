@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: okx371w00-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/okx371w00-nodejs
